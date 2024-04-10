@@ -3,7 +3,7 @@ import React from 'react'
 const Header = () => {
   return (
     <div>
-      <h1>hola desde el header</h1>  
+      <h1>sheLead - React</h1>  
     </div>
   )
 }
